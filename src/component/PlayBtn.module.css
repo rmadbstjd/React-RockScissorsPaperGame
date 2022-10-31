@@ -1,5 +1,7 @@
 .btn {
-    border : solid black 1px;
+    border : solid black 0px;
     width :100px;
     height : 40px;
+    display:flex;
+    margin-left : 250px;
 }
