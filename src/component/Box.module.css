@@ -1,5 +1,19 @@
+.box1 {
+    border : solid blue 5px;
+    width: 300px;
+    height:300px;
+    display: inline-block;
+    margin : 20px auto;
+}
+.box2 {
+    border : solid red 5px;
+    width: 300px;
+    height:300px;
+    display: inline-block;
+    margin : 20px auto;
+}
 .box {
-    border : solid black 1px;
+    border : solid black 5px;
     width: 300px;
     height:300px;
     display: inline-block;
